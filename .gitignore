@@ -1,0 +1,24 @@
+# data
+*.json
+*.csv
+/data
+
+# model
+/model
+*.pt
+*.pth
+
+# config
+.yaml
+
+# python
+__pycache__/
+
+# file
+.ipynb_checkpoints
+
+# mac
+.DS_Store
+.AppleDouble
+.LSOverride
+*.icloud
